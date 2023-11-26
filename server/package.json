@@ -1,0 +1,14 @@
+{
+  "name": "anime-opolis",
+  "version": "1.0.0",
+  "description": "An app to manage all you need to know about the hottest anime",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kat Law",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
