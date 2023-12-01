@@ -46,6 +46,12 @@ let animeData = [
     numberOfEps: 148,
     genre: "adventure",
   },
+  {
+    id: 8,
+    name: "Hajime no Ippo",
+    numberOfEps: 75,
+    genre: "sports",
+  },
 ];
 
 app.get('/', (req, res) => {
